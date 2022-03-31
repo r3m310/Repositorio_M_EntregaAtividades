@@ -1,14 +1,19 @@
 algoritmo "APOLO"
-// Função : Faça um algoritmo que receba dois números e exiba o resultado da sua soma.
-// Seção de Declarações
+// FunÃ§Ã£o : FaÃ§a um algoritmo que receba dois nÃºmeros e exiba o resultado da sua soma.
+// SeÃ§Ã£o de DeclaraÃ§Ãµes
 var
 x, y: inteiro
 
-inicio
-// Seção de Comandos
-escreval("Digite o primeiro número: ")
+
+
+
+
+
+
+inicio// SeÃ§Ã£o de Comandos
+escreval("Digite o primeiro nÃºmero: ")
 leia(x)
-escreval("Digite o segundo número: ")
+escreval("Digite o segundo nÃºmero: ")
 leia(y)
-escreva("A soma dos números é: ",x+y)
+escreva("A soma dos nÃºmeros Ã©: ",x+y)
 fimalgoritmo
